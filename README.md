@@ -63,6 +63,10 @@ Edit
 6️⃣ Add Product Review
 7️⃣ Search Products
 8️⃣ Logout
+
+ER Diagram
+[Online-Shopping-Platform-ER-Dagram.pdf](https://github.com/user-attachments/files/21559512/Online-Shopping-Platform-ER-Dagram.pdf)
+
 👩‍💻 Author 
 ---Alka---
 
